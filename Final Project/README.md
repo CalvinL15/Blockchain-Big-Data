@@ -1,1 +1,1 @@
-This file contains the source code for the final project of this course.
+This file contains the essential source code for the final project of this course.
